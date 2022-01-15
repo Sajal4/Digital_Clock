@@ -29,7 +29,7 @@ body {
     /* padding: 20px 40px; */
     z-index: 3;
   }
-  .levelPlus2 {
+  .lvlPlus2 {
     height: 130px;
     width: 416px;
     margin: auto;
@@ -41,7 +41,7 @@ body {
     background-color: white;
     opacity: 0.71;
   }
-  .levelPlus1 {
+  .lvlPlus1 {
     height: 130px;
     width: 379px;
     margin: auto;
