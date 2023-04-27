@@ -1,4 +1,4 @@
-console.log("Working");
+// console.log("Working");
 function time(){
 
     let hours = document.getElementById("hours");
